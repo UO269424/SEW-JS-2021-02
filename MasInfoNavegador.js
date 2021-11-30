@@ -1,0 +1,14 @@
+document.write("Nombre del navegador: ");
+document.write(infoNavegador.nombre);
+document.write(" <br> Idioma: ");
+document.write(infoNavegador.idioma);
+document.write(" <br> Version: ");
+document.write(infoNavegador.version);
+document.write(" <br> Plataforma: ");
+document.write(infoNavegador.plataforma);
+document.write(" <br> Vendedor: ");
+document.write(infoNavegador.vendedor);
+document.write(" <br> Agente: ");
+document.write(infoNavegador.agente);
+document.write(" <br> Java activo: ");
+document.write(infoNavegador.javaActivo);
